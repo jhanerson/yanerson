@@ -1,6 +1,6 @@
 particlesJS(
-    
-        {
+
+    {
         "particles": {
             "number": {
                 "value": 4,
@@ -29,7 +29,7 @@ particlesJS(
             },
             "opacity": {
                 "value": 0.5,
-                "random": true,
+                "random": false,
                 "anim": {
                     "enable": false,
                     "speed": 1,
@@ -49,9 +49,9 @@ particlesJS(
             },
             "line_linked": {
                 "enable": true,
-                "distance": 2,
+                "distance": 200,
                 "color": "#084d8c",
-                "opacity": 0.31,
+                "opacity": 1,
                 "width": 0.8
             },
             "move": {
@@ -110,5 +110,4 @@ particlesJS(
         },
         "retina_detect": true
     }
-
 );
