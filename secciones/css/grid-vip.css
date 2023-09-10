@@ -3,7 +3,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: radial-gradient(circle at 45.66% 74.64%, #f1e280 0, #f2d771 16.67%, #f2ca62 33.33%, #f2bd53 50%, #f2af45 66.67%, #f3a13a 83.33%, #f49432 100%);
+background-color: rgba(255, 255, 255, 0.623);
     border-radius: 4px;
     transition: transform 0.35s ease-in-out;
     background-size: cover;

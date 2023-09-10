@@ -11,26 +11,24 @@
 }
 
 .card1 {
-
-    background-image: radial-gradient(circle at 10.81% 31.73%, #ffe0a5 0, #ffe3a4 7.14%, #f8e6a3 14.29%, #f0e9a5 21.43%, #e6eba7 28.57%, #ddeeab 35.71%, #d3f0af 42.86%, #c9f2b5 50%, #bff4bc 57.14%, #b5f5c3 64.29%, #abf7cb 71.43%, #a2f8d3 78.57%, #99f8dc 85.71%, #91f9e5 92.86%, #8af9ee 100%);
-    color: rgb(0, 0, 0);
+    background-image: radial-gradient(circle at 12.02% 32.29%, #d9f743 0, #c7f53f 25%, #b5f23c 50%, #a1ef3a 75%, #8ced3b 100%);
+    color: rgb(255, 255, 255);
     font-size: 1em;
     text-align: center;
 }
 
 .card2 {
 
-    background-image: radial-gradient(circle at 57.98% 59.52%, #a5fcff 0, #9dd5f2 50%, #91afc2 100%);
-    color: rgb(0, 0, 0);
+    background-image: radial-gradient(circle at -14.09% 20.12%, #00ffff 0, #27dbff 25%, #3cb5f2 50%, #4091c1 75%, #3d7094 100%);
+    color: rgb(255, 255, 255);
     font-size: 1em;
     text-align: center;
 
 }
 
 .card3 {
-
-    background-image: radial-gradient(circle at 11.17% 31.9%, #fae0f3 0, #fddfef 3.57%, #ffdeec 7.14%, #ffdee8 10.71%, #ffdee4 14.29%, #ffdee0 17.86%, #ffdfdd 21.43%, #ffdfda 25%, #ffe0d7 28.57%, #ffe1d4 32.14%, #fee1d2 35.71%, #fce3d0 39.29%, #f9e4ce 42.86%, #f6e5cd 46.43%, #f2e6cd 50%, #eee7cd 53.57%, #eae8ce 57.14%, #e6e9cf 60.71%, #e2ebd1 64.29%, #ddecd3 67.86%, #d9ecd6 71.43%, #d6edd9 75%, #d2eedc 78.57%, #cfeedf 82.14%, #ccefe3 85.71%, #c9efe7 89.29%, #c8efeb 92.86%, #c7efee 96.43%, #c6eff2 100%);
-    color: rgb(0, 0, 0);
+background-image: linear-gradient(90deg, #008dff 0, #0088ff 4.17%, #2e81fe 8.33%, #667af8 12.5%, #8772f0 16.67%, #a269e5 20.83%, #b760d8 25%, #c857ca 29.17%, #d74ebb 33.33%, #e246ab 37.5%, #ea409a 41.67%, #ef3c89 45.83%, #f23c78 50%, #f23f67 54.17%, #f04557 58.33%, #ec4c47 62.5%, #e65437 66.67%, #de5d26 70.83%, #d46513 75%, #ca6d00 79.17%, #bd7500 83.33%, #b07c00 87.5%, #a28200 91.67%, #938700 95.83%, #828c00 100%);
+    color: rgb(255, 255, 255);
     font-size: 1em;
     text-align: center;
 
@@ -39,16 +37,15 @@
 
 .card4 {
 
-    background-image: radial-gradient(circle at 11.05% 31.84%, #ffd5ff 0, #ffccff 16.67%, #ffc1ff 33.33%, #f2b5f2 50%, #d8a9e2 66.67%, #c19ed2 83.33%, #ad94c3 100%);
-    color: black;
+    background-image: radial-gradient(circle at -18.3% 68.3%, #ff6497 0, #ff5a9f 12.5%, #ff50a6 25%, #fe45ad 37.5%, #f23cb5 50%, #e335bd 62.5%, #d332c6 75%, #c034ce 87.5%, #aa38d7 100%);
+    color: rgb(255, 255, 255);
     font-size: 1em;
     text-align: center;
 }
 
 .card5 {
-
-    background-image: radial-gradient(circle at 1.48% 41.44%, #fffa65 0, #ffe643 25%, #f8d110 50%, #f1bc00 75%, #eba700 100%);
-    color: rgb(0, 0, 0);
+    background-image: linear-gradient(110deg, #eed764 0, #f0cd57 16.67%, #f1c149 33.33%, #f2b53c 50%, #f3a830 66.67%, #f49b26 83.33%, #f68f20 100%);
+    color: rgb(255, 255, 255);
     font-size: 1em;
     text-align: center;
 }
@@ -57,7 +54,7 @@
 
 .vip {
     background-image: radial-gradient(circle at 89.77% 72.96%, #fffb67 0, #ffe760 16.67%, #ffd359 33.33%, #f2bd53 50%, #e2a84d 66.67%, #d39649 83.33%, #c58645 100%);
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 1em;
     text-align: center;
 }
@@ -72,33 +69,32 @@
 }
 
 .consultoria {
-
-    background-image: radial-gradient(circle at -0.12% 73.37%, #ffffe0 0, #fffecb 25%, #f2f2b5 50%, #dbe6a1 75%, #c4dc90 100%);
-    color: rgb(0, 0, 0);
+background-image: linear-gradient(95deg, #0068ff 0, #0061ff 12.5%, #0057ff 25%, #004cfe 37.5%, #3c3cf2 50%, #7425e4 62.5%, #9500d3 75%, #ae00c1 87.5%, #c100ae 100%);
+    color: rgb(255, 255, 255);
     font-size: 80%;
     text-align: center;
 }
 
 .whatsapp {
     background-color: #25d366;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 1em;
     text-align: center;
 }
 
 .whatsapp-icon {
     margin-top: 13px;
+    color: rgb(255, 255, 255);
 }
 
 .labs {
-    background-image: radial-gradient(circle at 12.38% 76.34%, #d8ffa1 0, #c6ffa2 8.33%, #b3ffa4 16.67%, #9efca7 25%, #85faab 33.33%, #68f6b0 41.67%, #3cf2b5 50%, #00eebb 58.33%, #00e9c3 66.67%, #00e5cd 75%, #00e1d7 83.33%, #00dee1 91.67%, #00daed 100%);
-
+    background-image: linear-gradient(125deg, #a1e800 0, #87ec00 16.67%, #69ef1d 33.33%, #3cf23c 50%, #00f554 66.67%, #00f76a 83.33%, #00f980 100%);
+    color: rgb(255, 255, 255);
 }
 
 .info {
-
-    background-image: linear-gradient(270deg, #fae8d3 0, #f6e9d3 3.33%, #f3ebd3 6.67%, #efecd3 10%, #ecedd4 13.33%, #e8eed6 16.67%, #e4efd7 20%, #e0efd9 23.33%, #ddf0dc 26.67%, #daf1df 30%, #d6f1e2 33.33%, #d4f2e5 36.67%, #d1f2e8 40%, #cff2eb 43.33%, #cef2ef 46.67%, #cdf2f2 50%, #cdf2f5 53.33%, #cdf1f8 56.67%, #cef1fb 60%, #d0f0fd 63.33%, #d2efff 66.67%, #d4efff 70%, #d7eeff 73.33%, #dbedff 76.67%, #dfecff 80%, #e3ebff 83.33%, #e7eaff 86.67%, #ebe8ff 90%, #efe7ff 93.33%, #f3e6fd 96.67%, #f6e5fb 100%);
-
+    background-image: linear-gradient(90deg, #009dff 0, #0099ff 4.55%, #0093ff 9.09%, #008dff 13.64%, #0086ff 18.18%, #617dff 22.73%, #8b74ff 27.27%, #aa6af7 31.82%, #c25fe9 36.36%, #d653d9 40.91%, #e647c7 45.45%, #f23cb5 50%, #fb32a2 54.55%, #ff2c8f 59.09%, #ff2c7c 63.64%, #ff3169 68.18%, #ff3a56 72.73%, #fd4444 77.27%, #f65031 81.82%, #ed5a1d 86.36%, #e26500 90.91%, #d66e00 95.45%, #c87700 100%);
+    color: rgb(255, 255, 255);
 }
 
 
