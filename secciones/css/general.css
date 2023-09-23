@@ -17,6 +17,7 @@
 }
 
 .card1 {
+    background-image: url('../img/gift/mariposa.gif');
     background-image: linear-gradient(120deg, #b456f4 0, #8647f4 25%, #3c3cf2 50%, #0036f0 75%, #0034ee 100%);
     color: rgb(255, 255, 255);
     font-size: 1em;
