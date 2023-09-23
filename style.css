@@ -20,7 +20,7 @@ body {
 
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
@@ -78,3 +78,8 @@ body {
 }
 
 
+section a {
+    color: black;
+    text-decoration: none;
+
+}
