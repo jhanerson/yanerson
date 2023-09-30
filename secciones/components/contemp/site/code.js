@@ -1,9 +1,7 @@
 window.onload = function () {
-
     $('#onload').fadeOut();
-    $('body').removeClass('no-scroll')
+    $('body').removeClass('no-scroll');
 }
-
 
 // Esta variable se utiliza para mantener un registro de los productos en la tabla.
 let productos = [];
@@ -96,8 +94,8 @@ document.getElementById('ventaForm').addEventListener('submit', function (e) {
     const producto = document.getElementById('producto').value;
     const cantidad = parseInt(document.getElementById('cantidad').value);
     const precio = parseFloat(document.getElementById('precio').value);
-    const iva = document.getElementById('flexCheckDefault').checked ? 0.19 : 0;
-    const total = (precio * cantidad * (1 + iva)).toFixed(2);
+    // Eliminando el cálculo del IVA
+    const total = (precio * cantidad).toFixed(2);
     const fecha = new Date().toLocaleDateString();
 
     agregarVenta(producto, cantidad, precio, total, fecha);
